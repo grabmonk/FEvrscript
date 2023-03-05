@@ -1,3 +1,5 @@
+-- To load: loadstring(game:HttpGet("https://raw.githubusercontent.com/grabmonk/FEvrscript/main/vrshi"))()
+
 local handTransparency = 0 --transparency of your hands
 local handsOffset = CFrame.fromEulerAnglesXYZ(8, 0, 0) * CFrame.new(0, 0.7, 0.15)
 local headScale = 1.5
