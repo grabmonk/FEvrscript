@@ -5,7 +5,7 @@ local flyspeed = headScale / 4
 local flyFPS = 120
 local disableVrLaserPointer = false --disables robloxes vr laser pointer
 local enableGunMod = false
-local flybutton = Enum.KeyCode.ButtonR1
+local flybutton = Enum.KeyCode.ButtonY
 local equipbutton = Enum.KeyCode.ButtonA
 local shootbutton = Enum.KeyCode.ButtonR2
  
